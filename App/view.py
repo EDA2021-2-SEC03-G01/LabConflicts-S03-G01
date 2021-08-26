@@ -81,7 +81,6 @@ while True:
 
         # TODO: Modificación de Est-1 en el Lab 2
         print("Cargar Book-Tags!!!...")
-
         # TODO: Modificación de Est-2 en el Lab 2
 
     elif int(inputs[0]) == 2:
